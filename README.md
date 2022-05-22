@@ -7,3 +7,4 @@ release-issues
 merpenbeck-sandbox
 trex-jurassic-park-project
 merpenbeck-poc-for-spike
+bug-645-Insecure-Password-Reset
